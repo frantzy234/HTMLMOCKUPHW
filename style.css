@@ -1,0 +1,117 @@
+body{
+    text-align: center;
+    
+}
+header {
+  border: dashed red;
+  border-width: 4px;
+  text-align: center;
+  height: 12vh;
+  margin: 1em;
+}
+nav {
+  border: dashed blue;
+  margin: 1em;
+  text-align: center;
+
+  border-width: 4px;
+  height: 16vh;
+}
+.sectionContainer {
+  border: dashed green;
+  border-width: 4px;
+  margin: 1em;
+  text-align: center;
+  display: flex;
+}
+section {
+  border: solid purple;
+  border-width: 0.2px;
+  height: 24vh;
+  margin: 1em;
+  text-align: center;
+}
+
+.Frantzy{
+    border: solid black;
+    justify-content: left;
+    width: 60px;
+    font-size: 1em;
+    
+
+}
+
+.Date{
+    border: solid black;
+    width: max-content;
+}
+
+#com_a:hover {
+    color: white;
+    background-color: lightblue;
+}
+
+
+#com_b:hover {
+    color: white;
+    background-color:pink;
+}
+
+#com_c:hover {
+    color: white;
+    background-color: peru;
+}
+
+#com_d:hover {
+    color: white;
+    background-color: green;
+}
+
+.Sneaker{
+    text-align: center;
+
+}
+
+.bizPic{
+    margin: 1em;
+    border-radius: 50%;
+    height: 60px;
+    width: 60px;
+    border: solid white;
+    flex: 33.33%;
+   
+   
+    
+
+    
+}
+
+#one{
+    text-align: right;
+}
+
+
+  .hey{
+    margin: 1em;
+    border-radius: 50%;
+    height: 60px;
+    width: 60px;
+    border: solid white;
+    flex: 33.33%;
+   
+    
+  
+
+  }
+
+  b:hover{
+    font-size:88px;
+    transition: all 500ms;
+    font-size-adjust: 20px;
+    
+    
+  }
+
+  .tr{
+    text-align: center;
+  }
